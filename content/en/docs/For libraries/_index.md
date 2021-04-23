@@ -1,6 +1,6 @@
 ---
-title: "Data migration"
-linkTitle: "Data migration"
+title: "For libraries"
+linkTitle: "For libraries"
 weight: 10
 description: >
   Section for all things data migration, both for implementing libraries and technical partners
