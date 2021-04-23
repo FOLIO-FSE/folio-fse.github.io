@@ -8,10 +8,10 @@ menu:
     weight: 20
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
 
+{{< imgproc bus-night Fill "800x450" >}}
+Photo by Nubia Navarro (nubikini) from Pexels
+{{< /imgproc >}}
 
 This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
 
