@@ -2,7 +2,6 @@
 title: "For libraries"
 linkTitle: "For libraries"
 weight: 10
-icon: "fa fa-book-reader"
 description: >
   Section for all things for FOLIO implementing libraries
 ---
