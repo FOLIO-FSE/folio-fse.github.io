@@ -2,7 +2,9 @@
 ---
 title: "Inventory & SRS"
 linkTitle: "Inventory & SRS"
-
+description: >
+  Inventory and SRS is in many aspects the FOLIO Equivalent of the Library catalog. To migrate a library catalog into FOLIO is a multi-step process and is dependant on your the source ILS and other factors.
+---
 ---
 
 {{% pageinfo %}}
